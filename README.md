@@ -12,8 +12,7 @@ prompts and sends them to OpenAI's image‑generation models.
 
 <p align="center">
   <img src="images/modern_infographic_image_5.png" width="300"/>
-  <img src="image2.png" width="300"/>
-  <img src="image3.png" width="300"/>
+  <img src="images/photorealistic_image_1.png" width="300"/>
 </p>
 
 ## Features
