@@ -117,7 +117,12 @@ st.markdown(
 
 #add a text under the header "Generate unique and eye-catching blog header images based on your titles and style preferences.",
 st.markdown(
-    "<p style='text-align:center;color:#f00;font-size:18px;margin-bottom:2rem;'>Note: Please be careful when generating images, as they will be on my Credit Card.</p>",
+    "<p style='text-align:center;color:#f00;font-size:18px;margin-bottom:2rem;'>Note: Please be careful when generating images, as they will are very costly.</p>",
+    unsafe_allow_html=True,
+)
+
+st.markdown(
+    "<p style='text-align:center;color:#00000;font-size:18px;margin-bottom:2rem;'>The images might not be the highest standard but we can always work on that once we get the detailed requirement from the client</p>",
     unsafe_allow_html=True,
 )
 
