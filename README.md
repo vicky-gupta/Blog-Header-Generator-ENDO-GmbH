@@ -10,6 +10,12 @@ prompts and sends them to OpenAI's image‑generation models.
 
 ![App Screenshot](endo-gen-img.png) 
 
+<p align="center">
+  <img src="images/modern_infographic_image_5.png" width="300"/>
+  <img src="image2.png" width="300"/>
+  <img src="image3.png" width="300"/>
+</p>
+
 ## Features
 
 - Automatic generation of blog header images
