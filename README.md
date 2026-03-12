@@ -8,7 +8,7 @@ visually consistent blog headers that align with the branding of the Endo Blog
 website. Users provide a list of titles and choose a style; the app then constructs
 prompts and sends them to OpenAI's image‑generation models.
 
-![App Screenshot](path-to-image)
+![App Screenshot](endo-gen-img.png) 
 
 ## Features
 
