@@ -43,8 +43,8 @@ or integrated into an existing web platform) with minimal changes.
 
 1. Clone the repository:
    ```bash
-   git clone <repo-url>
-   cd <repo-folder>
+   git clone https://github.com/vicky-gupta/Blog-Header-Generator-ENDO-GmbH.git
+   cd Blog-Header-Generator-ENDO-GmbH
    ```
 2. Install dependencies (listed in `requirements.txt`):
    ```bash
@@ -62,8 +62,8 @@ or integrated into an existing web platform) with minimal changes.
 ## Example Commands
 
 ```bash
-git clone <repo-url>
-cd <repo-folder>
+git clone https://github.com/vicky-gupta/Blog-Header-Generator-ENDO-GmbH.git
+cd Blog-Header-Generator-ENDO-GmbH
 pip install -r requirements.txt
 streamlit run app.py
 ```
